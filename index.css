@@ -13,6 +13,17 @@
 
 .info-box{
     width: 400px;
-    height: 400px;
+    height: 160px;
     border: solid 15px rgb(58, 58, 92);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.helpful{
+    font-size: larger;;
+}
+
+.description-box{
+    list-style-type: none;
+    font-size: larger;
 }
