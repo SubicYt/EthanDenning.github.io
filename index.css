@@ -21,9 +21,15 @@
 }
 .helpful{
     font-size: larger;;
+    font-weight: bold;
 }
 
 .description-box{
     list-style-type: none;
     font-size: larger;
+}
+
+.code{
+    font-size: larger;
+    font-weight: bold;
 }
